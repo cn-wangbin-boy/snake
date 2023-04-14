@@ -135,8 +135,6 @@ def rect(_coordi, _img, _relative=False):
 
 class Button:
     """
-    英文注释：This class represents a button that can be clicked by the player.
-
     中文注释：该类表示一个可以被玩家点击的按钮。
     """
 
